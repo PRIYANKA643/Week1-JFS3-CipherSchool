@@ -1,4 +1,3 @@
 # Week1-JFS3-CipherSchool
 
-Priyanka 
-12014056
+This file contains all the code that I have learned in 1 week from CipherSchool.
